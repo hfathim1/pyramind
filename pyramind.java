@@ -11,7 +11,7 @@ public class pyramind {
 				k++;
 			}System.out.println();
 			
-		}
+		}System.out.println("HellowWorld");
 	}
 
 }
