@@ -10,7 +10,7 @@ public class pyramind {
 				System.out.print("\t");
 				k++;
 			}System.out.println();
-			System.out.println("Hellow");
+			
 		}
 	}
 
